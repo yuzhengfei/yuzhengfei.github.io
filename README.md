@@ -14,14 +14,11 @@ From March 2018 to today, I have been working on "Simple Search APP" in the mult
 
 ### Skill
 ```markdown
-Syntax highlighted code block
-
 # About NLP. 
 1. Master naive Bayes, SVM, Logical Regression and classification algorithms;
 2. Master the collection of text data, word segmentation, feature selection and classification methods; 
 3. Familiar with the principle of word vector algorithm Word2vec,FastText; grasp the basic principles of CNN,LSTM,GRU and other neural networks; 
 4. Master the basis and use of neural network framework Tensorflow.
-
 
 # About Python 
 1. Proficient in python language, and pip,virtualenv tools; 
@@ -36,7 +33,6 @@ Syntax highlighted code block
 1. Proficient in using Kotlin and Swift language for dual-terminal development;
 2. Familiar with Android and iOS module development, view of the optimization method;
 3. Proficient in using and mastering the network request framework OkHttp, picture loading framework Glide and other open source framework.
-
 
 ```
 
