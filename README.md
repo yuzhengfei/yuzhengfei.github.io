@@ -1,19 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/yuzhengfei/yuzhengfei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new gh-pages branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
 
 ### Educational experience
 
 I'm a master's degree in software engineering from the School of Information Science an Techonlogy, Northeast normal University.
 
-### Personal experience
+### Work experience
 
 From March 2018 to today, I have been working on "Simple Search APP" in the multimode search department of Baidu Inc., where I have been working on RD(Android&iOS)
 
 ### Skill
 ```markdown
+
 # About NLP. 
 1. Master naive Bayes, SVM, Logical Regression and classification algorithms;
 2. Master the collection of text data, word segmentation, feature selection and classification methods; 
@@ -29,7 +28,7 @@ From March 2018 to today, I have been working on "Simple Search APP" in the mult
 1. Familiar with the Spring MVC, MyBatis, Shiro framework for Java Web development; 
 2. Familiar with the use of IDEA Git Tomcat relational database development environment.
 
-# About Mobile (Android&iOS) 
+# About Mobile (Android & iOS) 
 1. Proficient in using Kotlin and Swift language for dual-terminal development;
 2. Familiar with Android and iOS module development, view of the optimization method;
 3. Proficient in using and mastering the network request framework OkHttp, picture loading framework Glide and other open source framework.
